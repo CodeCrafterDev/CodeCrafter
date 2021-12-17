@@ -1,0 +1,7 @@
+{
+    "name": "cli",
+    "author": "CodeCrafterDev",
+    "devDependencies": {
+        "@types/node": "^17.0.0"
+    }
+}
